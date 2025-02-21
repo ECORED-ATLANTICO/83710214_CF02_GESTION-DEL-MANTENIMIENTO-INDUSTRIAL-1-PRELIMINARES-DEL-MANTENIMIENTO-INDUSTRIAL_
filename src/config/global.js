@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
+    Name:
       'Ejecución de actividades y <em>software</em> para órdenes de trabajo',
-    descripcionCurso:
+    Description:
       'La gestión del mantenimiento industrial requiere de <em>software</em> para generar órdenes de trabajo y ejecutar actividades para dejar los equipos en un óptimo funcionamiento en una mejora continua.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
@@ -280,18 +280,6 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jairo Luis Valencia Ebratt',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
-          nombre: 'Juan Carlos Cardona Acosta',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro:
-            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
-        },
-        {
           nombre: 'Carolina Coca Salazar',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
@@ -300,6 +288,18 @@ export default {
         {
           nombre: 'Luz Karime Amaya Cabra',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Luis Valencia Ebratt',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
+          centro:
+            'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
+        },
+        {
+          nombre: 'Juan Carlos Cardona Acosta',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },

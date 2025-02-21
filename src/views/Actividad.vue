@@ -9,10 +9,12 @@
 </template>
 
 <script>
-import Actividad from '@/components/actividad/Actividad'
+import Actividad from 'ecored-pkg-fliz/plugin/components/actividad/Actividad.vue'
 export default {
   name: 'ActividadDidactica',
-  components: { Actividad },
+  components: {
+    Actividad,
+  },
   data: () => ({
     cuestionario: {
       tema:
