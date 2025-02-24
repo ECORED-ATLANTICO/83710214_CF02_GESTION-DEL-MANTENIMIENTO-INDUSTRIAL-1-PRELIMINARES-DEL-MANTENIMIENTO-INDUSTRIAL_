@@ -130,14 +130,14 @@ export default {
         'Se presenta cuando, al detectar la anomalía esta no se corrige. Por lo general, se presentan en piezas de baja vida útil.',
     },
     {
-      termino: 'Avería total',
-      significado:
-        'Se produce cuando el equipo no puede realizar todas las funciones para las cuales fue diseñado.',
-    },
-    {
       termino: 'Avería parcial',
       significado:
         'Se presenta cuando la avería solo afecta parcialmente algunas de las funciones del equipo que se consideran de menor importancia.',
+    },
+    {
+      termino: 'Avería total',
+      significado:
+        'Se produce cuando el equipo no puede realizar todas las funciones para las cuales fue diseñado.',
     },
     {
       termino: 'Desgaste',
