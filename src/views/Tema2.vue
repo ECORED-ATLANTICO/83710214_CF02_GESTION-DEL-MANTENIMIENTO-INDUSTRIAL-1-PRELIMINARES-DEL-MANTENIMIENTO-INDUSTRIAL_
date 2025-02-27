@@ -17,7 +17,9 @@
 
     .row.justify-content-center.my-4.fondo-imagen-2
       .col-lg-6.col-md-8
-        p Figura 3. <em>Ejemplo Instructivo</em>
+        p 
+          strong Figura 3. 
+          | <em>Ejemplo Instructivo</em>
         figure
           img.my-4(src="@/assets/curso/temas/tema2/img2.svg", alt="Se muestra un ejemplo de instructivo de la empresa LTDA departamento de mantenimiento.")   
         p.text-center Fuente: (SENA – LP Risaralda, 2014).
@@ -57,30 +59,36 @@
 
     .row.justify-content-center.my-4.fondo-imagen-7
       .col-lg-10.col-md-8 
-        p Figura 4. <em>Esquema de tarjeta</em>
+        p 
+          strong Figura 4. 
+          | <em>Esquema de tarjeta</em>
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img8.svg", alt="Se muestra esquema de tarjeta.")
+          img.my-4(src="@/assets/curso/temas/tema2/img8.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, odelo, fabricante, dimensiones, diametro,etc.")
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img9.svg", alt="Se muestra esquema de tarjeta.")
+          img.my-4(src="@/assets/curso/temas/tema2/img9.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, odelo, fabricante, dimensiones, diametro,etc.")
         p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
       .row.justify-content-center.my-4 
         .col-lg-10.col-md-8 
-          p Figura 5. <em>Tarjeta de motores hidráulicos</em>
+          p 
+            strong Figura 5. 
+            | <em>Tarjeta de motores hidráulicos</em>
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img10.svg", alt="Se muestra tarjeta de motores hidráulicos.")
+            img.my-4(src="@/assets/curso/temas/tema2/img10.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img11.svg", alt="Se muestra tarjeta de motores hidráulicos.")
+            img.my-4(src="@/assets/curso/temas/tema2/img11.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img12.svg", alt="Se muestra tarjeta de motores hidráulicos.")
+            img.my-4(src="@/assets/curso/temas/tema2/img12.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img13.svg", alt="Se muestra tarjeta de motores hidráulicos.")
+            img.my-4(src="@/assets/curso/temas/tema2/img13.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img14.svg", alt="Se muestra tarjeta de motores hidráulicos.")
+            img.my-4(src="@/assets/curso/temas/tema2/img14.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
     
       .row.justify-content-center.my-4 
         .col-lg-10.col-md-8 
-          p Figura 6. <em>Tarjeta de válvulas</em>
+          p 
+            strong Figura 6. 
+            | <em>Tarjeta de válvulas</em>
           figure
             img.my-4(src="@/assets/curso/temas/tema2/img15.svg", alt="Se muestra una tarjeta de válvulas.")
           figure
@@ -96,26 +104,32 @@
 
     .row.justify-content-center.fondo-imagen-5
       .col-lg-10.col-md-8
-        p.my-4 Figura 7. <em>Ejemplo tarjeta maestra diligenciada</em>
+        p.my-4 
+          strong Figura 7. 
+          | <em>Ejemplo tarjeta maestra diligenciada</em>
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img21.svg", alt="Se muestra tarjeta maestra diligenciada.")
+          img.my-4(src="@/assets/curso/temas/tema2/img21.svg", alt="Se muestra tarjeta maestra diligenciada con los datos solicitados.")
       .col-lg-7.col-md-8
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img22.svg", alt="Se muestra tarjeta maestra diligenciada.")
+          img.my-4(src="@/assets/curso/temas/tema2/img22.svg", alt="Se muestra tarjeta maestra diligenciada con los datos solicitados.")
       .col-lg-7.col-md-8
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img23.svg", alt="Se muestra tarjeta maestra diligenciada.")
+          img.my-4(src="@/assets/curso/temas/tema2/img23.svg", alt="Se muestra tarjeta maestra diligenciada con los datos solicitados.")
         p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
     
     h3(data-aos="fade-left").mb-3.mt-4.blue_icon Hojas de vida
 
     p.my-4 Luego de realizar la tarjeta maestra, es importante contar para cada máquina con el recuento de identificación del equipo, fecha, código del instructivo, trabajo realizado, costo, tiempo y quien lo realiza. Lo anterior se conoce como hoja de vida de la máquina. A continuación, se presenta el esquema de una hoja de vida. 
-    p Figura 8. <em>Hoja de vida de la máquina</em>
+    p 
+      strong Figura 8. 
+      | <em>Hoja de vida de la máquina</em>
     figure
-      img.my-4(src="@/assets/curso/temas/tema2/img24.svg", alt="Se muestra la hoja de vida de la máquina.")
+      img.my-4(src="@/assets/curso/temas/tema2/img24.svg", alt="Se muestra la hoja de vida de la máquina, indicando fecha inicial, código instructivo, trabajo realizado, fecha final, costos, observaciones, etc.")
     p.text-center Fuente: (SENA – LP Risaralda, 2014).
 
-    p Figura 9. <em>Ejemplo hoja de vida diligenciada</em>
+    p 
+      strong Figura 9. 
+      | <em>Ejemplo hoja de vida diligenciada</em>
     figure
       img.my-4(src="@/assets/curso/temas/tema2/img25.svg", alt="Se muestra la hoja de vida diligenciada, con el nombre de la máquina, código, ubicación y fabricación.")
     p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
@@ -136,14 +150,18 @@
 
     .row.justify-content-center.fondo-imagen-6
       .col-lg-7.col-md-8
-        p Figura 10. <em>Esquema de un tablero de control</em>
+        p 
+          strong Figura 10. 
+          | <em>Esquema de un tablero de control</em>
         figure
           img.my-4(src="@/assets/curso/temas/tema2/img27.svg", alt="Se muestra el esquema de un tablero de control.")
         p.text-center Fuente: (SENA – LP Risaralda, 2014).
       
 
       .col-lg-7.col-md-8.justify-content-center
-        p Figura 11. <em>Tablero de control diligenciado</em>
+        p 
+          strong Figura 11. 
+          | <em>Tablero de control diligenciado</em>
         figure
           img.mt-4(src="@/assets/curso/temas/tema2/img28.svg", alt="Se muestra un tablero de control diligenciado.")
         p.text-center Fuente: (Herrera, 2014).
@@ -163,7 +181,9 @@
     
     .row.justify-content-center.my-4
       .col-lg-10.col-md-8
-        p Figura 12. <em>Esquema de un tablero de control: rutina semanal</em>
+        p 
+          strong Figura 12. 
+          | <em>Esquema de un tablero de control: rutina semanal</em>
         figure
           img.mt-4(src="@/assets/curso/temas/tema2/img31.svg", alt="Se muestra el esquema de un tablero de control: rutina semanal.")
         p.text-center Fuente: (SENA – LP Risaralda, 2014).
@@ -171,7 +191,9 @@
           
     .row.justify-content-center.my-4
       .col-lg-10.col-md-8
-        p Figura 13. <em>Esquema de un tablero de control: rutina diaria</em>
+        p 
+          strong Figura 13. 
+          | <em>Esquema de un tablero de control: rutina diaria</em>
         figure
           img.mt-4(src="@/assets/curso/temas/tema2/img32.svg", alt="Se muestra el esquema de un tablero de control: rutina diaria.")
         p.text-center Fuente: (SENA – LP Risaralda, 2014).
@@ -288,8 +310,10 @@
 
     p.my-4 A continuación, se muestra un ejemplo de orden de trabajo para propósitos generales:
 
-    p Figura 14. <em>Esquema formato orden de trabajo</em>
-    img(src="@/assets/curso/temas/tema2/img44.svg", alt="Se muestra el formato de orden de trabajo.")
+    p 
+      strong Figura 14. 
+      | <em>Esquema formato orden de trabajo</em>
+    img(src="@/assets/curso/temas/tema2/img44.svg", alt="Se muestra el formato de orden de trabajo, con la descripción general del trabajo.")
     p.text-center Fuente: (Dixon, 2000).
 
 

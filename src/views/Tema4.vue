@@ -35,7 +35,7 @@
         figure
           img(src="@/assets/curso/temas/tema4/img23.png", alt="imagen decorativa")
 
-    p.text-center.my-4 <strong>De la manera como se presenta a lo largo del tiempo:</strong> 
+    p.text-center.my-4 <strong>De la manera como se presenta a lo largo del tiempo</strong> 
 
     .row.justify-content-center.my-4
       .col-lg-4.col-md-8.align-content-center
@@ -256,7 +256,9 @@
    
     .row.justify-content-center.my-4
       .col-lg-8.col-md-8
-        p Figura 16. <em>Estructura metodología análisis de averías</em>
+        p 
+          strong Figura 16. 
+          | <em>Estructura metodología análisis de averías</em>
         figure
           img.my-4(src='@/assets/curso/temas/tema4/img31.svg', alt='En la figura se muestra la metodología de análisis de averías: - Fase A: concretar el problema. - Fase B: determinar las causas. - Fase C: elaborar la solución.')
         p.text-center Fuente: (SENA – LP Risaralda, 2014).

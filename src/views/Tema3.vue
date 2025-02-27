@@ -135,7 +135,9 @@
 
     .row.justify-content-center.my-4
       .col-lg-7.col-md-8
-        p Figura 15. <em>Curva de la Bañera</em>
+        p 
+          strong Figura 15. 
+          | <em>Curva de la Bañera</em>
         figure
           img(src="@/assets/curso/temas/tema3/img15.svg", alt="En la figura se muestra la curva de la bañera, donde se detalla los fallos infantiles, la vida útil y el desgaste.")
         p.text-center Fuente: (Arturo Ruiz Falcó, 2012).

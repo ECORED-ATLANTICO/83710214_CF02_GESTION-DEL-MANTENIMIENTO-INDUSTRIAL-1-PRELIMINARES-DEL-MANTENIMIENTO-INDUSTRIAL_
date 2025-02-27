@@ -130,9 +130,11 @@
 
     .row.justify-content-center.my-4
       .col-lg-7.col-md-8
-        p Figura 1. <em>Funciones para realizar por una herramienta computacional para gestionar el mantenimiento</em>
+        p 
+          strong Figura 1. 
+          | <em>Funciones para realizar por una herramienta computacional para gestionar el mantenimiento</em>
         figure
-          img.my-4(src='@/assets/curso/temas/tema1/img16.svg', alt='Se muestra un ejemplo de funciones para realizar una herramienta computacional para gestionar el mantenimiento.')
+          img.my-4(src='@/assets/curso/temas/tema1/img16.svg', alt='Se muestra dentro del flujograma las funciones: gestión de datos técnicos, gestión para el mantenimiento de maquinaria y equipos, gestión de costos, gestión para compra de repuestos y contratación de servicios especializados, gestión de inventarios de repuestos e insumos.')
         p.mt-2 Fuente: (SENA – LP Risaralda, 2014).
 
     .row.justify-content-center.my-4
@@ -202,9 +204,11 @@
 
     .row.justify-content-center.my-4
       .col-lg-10.col-md-8
-        p Figura 2. <em>Interfaz de Microsoft Office Excel®</em>
+        p 
+          strong Figura 2. 
+          | <em>Interfaz de Microsoft Office Excel®</em>
         figure
-          img.my-4(src='@/assets/curso/temas/tema1/img25.png', alt='Se muestra una interfaz de Microsoft Excel.')
+          img.my-4(src='@/assets/curso/temas/tema1/img25.png', alt='Se muestra una interfaz de Microsoft Office Excel.')
         p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
 
     p.mt-4.mb-3 A continuación, se enuncian algunas funciones de esta herramienta:
@@ -218,56 +222,56 @@
                 p Un libro de trabajo es en sí, el archivo que se crea en el programa, por lo que todo lo que se realiza en este programa se guardará como un archivo tipo libro de trabajo. Los libros de trabajo de programa cuentan con la extensión .XLSX.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img26.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img26.png', alt='Se muestra el libro 1- Microsoft Excel.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p Cada libro de trabajo está compuesto por varias hojas, inicialmente tendrá tres hojas (su número puede variar de 1 a 255). Dichas hojas se encuentran listadas en la parte inferior del programa, tal y como se muestra a continuación. 
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img27.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img27.png', alt='Se muestra la Hoja 1, que se encuentra en la parte inferior del Excel.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p La hoja de cálculo es uno de los tipos de hojas que se puede tener en un libro de trabajo. Es útil para el trabajo con un número considerable de datos, los cuales deban ser almacenados o tratados numérica o estadísticamente. Su forma es una hoja cuadriculada formada por filas y columnas.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img28.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img28.png', alt='Se muestra las filas  y columnas que se pueden tener en el libro.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p Las filas son un conjunto de celdas horizontales, las cuales son nombradas por números tal y como se muestra en la figura.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img29.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img29.png', alt='Se muestra las filas, que son conjunto de celdas horizontales.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p El rango es otro de los conceptos importantes en una hoja. Este se define como el bloque seleccionado de una o más celdas que el programa trata como una sola. Muchas de las operaciones que el programa realiza, pueden ser aplicadas a rangos directamente.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img30.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img30.png', alt='Se muestran los bloques o columnas.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p En las celdas de la hoja, se puede ingresar textos, números o fórmulas. En cada caso, la secuencia a seguir es la siguiente: ubicar el cursor sobre la celda donde desea agregar los datos. Los datos aparecen en dos lugares, en la celda activa y en la barra de fórmulas.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img31.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img31.png', alt='En las celdas de la hoja, se ingresan textos, números o fórmulas.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p Otra forma de introducir los datos es utilizando el cuadro de aceptación, el cual se encuentra en la barra de fórmulas tal y como se muestra.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img32.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img32.png', alt='Se muestra el cuadro de aceptación.')
     
           .row.p-3
             .col-lg-7.align-content-center
                 p Si al momento de introducir el dato, este es incorrecto, puede detener el proceso oprimiendo la tecla ESC u oprimiendo el botón <b>cancelar</b> de la barra de fórmulas tal y como se muestra en la siguiente figura.
             .col-lg-5.align-content-center
               figure
-                img(src='@/assets/curso/temas/tema1/img33.png', alt='Imagen decorativa')
+                img(src='@/assets/curso/temas/tema1/img33.png', alt='Se muestra el botón de cancelar de la barra de fórmulas.')
 
 
 </template>
