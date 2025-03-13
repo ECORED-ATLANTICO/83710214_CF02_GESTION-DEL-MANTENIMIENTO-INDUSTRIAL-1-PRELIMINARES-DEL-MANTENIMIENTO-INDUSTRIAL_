@@ -90,15 +90,15 @@
             strong Figura 6. 
             | <em>Tarjeta de válvulas</em>
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img15.svg", alt="Se muestra una tarjeta de válvulas.")
+            img.my-4(src="@/assets/curso/temas/tema2/img15.svg", alt="Se muestra la tarjeta de válvulas, indicando función, tipo, marca, modelo, ubicación, presión y voltaje.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img16.svg", alt="Se muestra una tarjeta de válvulas.")
+            img.my-4(src="@/assets/curso/temas/tema2/img16.svg", alt="Se muestra la tarjeta de válvulas, indicando función, tipo, marca, modelo, ubicación, presión y voltaje.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img17.svg", alt="Se muestra una tarjeta de válvulas.")
+            img.my-4(src="@/assets/curso/temas/tema2/img17.svg", alt="Se muestra la tarjeta de válvulas, indicando función, tipo, marca, modelo, ubicación, presión y voltaje.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img18.svg", alt="Se muestra una tarjeta de válvulas.")
+            img.my-4(src="@/assets/curso/temas/tema2/img18.svg", alt="Se muestra la tarjeta de válvulas, indicando función, tipo, marca, modelo, ubicación, presión y voltaje.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img19.svg", alt="Se muestra una tarjeta de válvulas.")
+            img.my-4(src="@/assets/curso/temas/tema2/img19.svg", alt="Se muestra la tarjeta de válvulas, indicando función, tipo, marca, modelo, ubicación, presión y voltaje.")
           p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
 
 
@@ -187,7 +187,7 @@
         figure
           img.mt-4(src="@/assets/curso/temas/tema2/img31.svg", alt="Se muestra el esquema de un tablero de control: rutina semanal.")
         p.text-center Fuente: (SENA – LP Risaralda, 2014).
-    p.my-3 Si los instructivos deben aplicarse diariamente, entonces debes recurrirse a al formato rutina diaria. En seguida, se muestra un ejemplo del formato.
+    p.my-3 Si los instructivos deben aplicarse diariamente, entonces debe recurrirse al formato de rutina diaria. Enseguida, se muestra un ejemplo del formato.
           
     .row.justify-content-center.my-4
       .col-lg-10.col-md-8
