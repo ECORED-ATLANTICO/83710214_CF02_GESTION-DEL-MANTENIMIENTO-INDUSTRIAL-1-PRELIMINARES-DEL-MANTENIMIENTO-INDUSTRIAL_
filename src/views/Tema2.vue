@@ -63,9 +63,9 @@
           strong Figura 4. 
           | <em>Esquema de tarjeta</em>
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img8.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, odelo, fabricante, dimensiones, diametro,etc.")
+          img.my-4(src="@/assets/curso/temas/tema2/img8.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, modelo, fabricante, dimensiones, diametro,etc.")
         figure
-          img.my-4(src="@/assets/curso/temas/tema2/img9.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, odelo, fabricante, dimensiones, diametro,etc.")
+          img.my-4(src="@/assets/curso/temas/tema2/img9.svg", alt="Se muestra el esquema de la tarjeta, como los datos de la maquina, marca, modelo, fabricante, dimensiones, diametro,etc.")
         p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
       .row.justify-content-center.my-4 
         .col-lg-10.col-md-8 
@@ -73,15 +73,15 @@
             strong Figura 5. 
             | <em>Tarjeta de motores hidráulicos</em>
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img10.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
+            img.my-4(src="@/assets/curso/temas/tema2/img10.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img11.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
+            img.my-4(src="@/assets/curso/temas/tema2/img11.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img12.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
+            img.my-4(src="@/assets/curso/temas/tema2/img12.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img13.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
+            img.my-4(src="@/assets/curso/temas/tema2/img13.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           figure
-            img.my-4(src="@/assets/curso/temas/tema2/img14.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie  de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
+            img.my-4(src="@/assets/curso/temas/tema2/img14.svg", alt="Se muestra la tarjeta de motores hidráulicos, datos tales como : función, marca, modelo, serie de motores hidráulicos, ventiladores, extractores, bombas hidráulicas, reductores.")
           p.mt-2.text-center Fuente: (SENA – LP Risaralda, 2014).
     
       .row.justify-content-center.my-4 
